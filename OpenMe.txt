@@ -1,0 +1,2 @@
+Mete todos los archicvos en una carpeta misma para evitar fallos
+EL SISTEMA ESTA PROGRAMADO EN BASE WINDOWS, en linux tiene errores
